@@ -1,5 +1,4 @@
 
-
 # VERIFY NPM AND INSTALL IF NOT INSTALLED
 #------------------------------
 which npm || sudo apt-get install npm -y
@@ -29,3 +28,6 @@ mkdir ~/.linuxbrew/bin
 ln -s ~/.linuxbrew/Homebrew/bin/brew ~/.linuxbrew/bin
 eval $(~/.linuxbrew/bin/brew shellenv)
 #------------------------------
+
+
+echo 'finished confifuration installation! 🖖'

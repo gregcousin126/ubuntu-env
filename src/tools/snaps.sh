@@ -1,4 +1,4 @@
-
+echo 'all snaps are installing 🖥'
 
 # VSCODE
 #------------------------------

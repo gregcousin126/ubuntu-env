@@ -12,4 +12,5 @@ cd ~ && git clone https://github.com/horst3180/arc-theme --depth 1 && cd arc-the
 ./autogen.sh --prefix=/usr
 make install
 rm -rf ~/arc-theme
-echo 'Is now possible to customize the ubuntu GUI'
+
+echo 'Is now possible to customize the ubuntu GUI 💫'

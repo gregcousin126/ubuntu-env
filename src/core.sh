@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-echo "Installing core development libraries (a lot of stuff :P)..."
+echo "Installing core development libraries (a lot of stuff 🤗)... "
+
 apt-get update && apt-get upgrade
 apt-get install -y  make \
                     build-essential \
